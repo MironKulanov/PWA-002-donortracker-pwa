@@ -1,2 +1,2 @@
-# PWA-002-donortracker-pwa
-PWA project: DonorTracker PWA
+# donor-tracker-pwaconstructor
+PWA project: Donor-Tracker-PWAconstructor
